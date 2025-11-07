@@ -70,7 +70,26 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
   <a href="https://github.com/Coca2302/BlackjackGameCLI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=BlackjackGameCLI&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
-  
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Astrq23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=giaquy2000and4&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 </div>
 🏆 My Achievements & Trophies 🎖️
 
