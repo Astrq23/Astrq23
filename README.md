@@ -72,11 +72,11 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
   </a>
   
 </div>
-## 🏆 My Achievements & Trophies 🎖️
+🏆 My Achievements & Trophies 🎖️
 
 <div align="center">
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Coca2302&theme=darkhub&no-frame=true&margin-w=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Astrq23&theme=darkhub&no-frame=true&margin-w=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
