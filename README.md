@@ -81,11 +81,6 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Astrq23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=giaquy2000and4&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
   </table>
 </div>
 
