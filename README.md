@@ -58,17 +58,17 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
 <div align="center">
   
   <!-- Project Card Format -->
-  <a href="https://github.com/Coca2302/protein_classification">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=protein_classification&theme=tokyonight&border_radius=8&hide_border=true" />
+  <a href="https://github.com/Astrq23/protein_classification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astrq23&repo=protein_classification&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
-  <a href="https://github.com/Coca2302/Multi-label-classification-on-chest-X-ray-images-with-GATN-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=Multi-label-classification-on-chest-X-ray-images-with-GATN-&theme=tokyonight&border_radius=8&hide_border=true" />
+  <a href="https://github.com/Astrq23/Multi-label-classification-on-chest-X-ray-images-with-GATN-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astrq23&repo=Multi-label-classification-on-chest-X-ray-images-with-GATN-&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
-  <a href="https://github.com/Coca2302/DeblurGAN">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=DeblurGAN&theme=tokyonight&border_radius=8&hide_border=true" />
+  <a href="https://github.com/Astrq23/DeblurGAN">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astrq23&repo=DeblurGAN&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
-  <a href="https://github.com/Coca2302/BlackjackGameCLI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coca2302&repo=BlackjackGameCLI&theme=tokyonight&border_radius=8&hide_border=true" />
+  <a href="https://github.com/Astrq23/BlackjackGameCLI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astrq23&repo=BlackjackGameCLI&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
 
 ## 📊 **GitHub Analytics**
@@ -115,7 +115,7 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=Coca2302&label=Profile%20views&color=6e5494&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Astrq23&label=Profile%20views&color=6e5494&style=for-the-badge" alt="Profile views" />
 
   <p>*"Every Second Counts"*</p>
 
