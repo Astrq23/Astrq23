@@ -77,7 +77,7 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Astrq23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Astrq23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
