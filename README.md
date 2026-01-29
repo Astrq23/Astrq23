@@ -89,7 +89,7 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
 
 <div align="center">
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Astrq23&theme=darkhub&no-frame=true&margin-w=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=astrq23)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
