@@ -89,7 +89,7 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=astrq23)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Astrq23)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
