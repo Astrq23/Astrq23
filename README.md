@@ -67,8 +67,8 @@ I'm a passionate developer with over 0.5 years of experience in Computer vision.
   <a href="https://github.com/Astrq23/DeblurGAN">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astrq23&repo=DeblurGAN&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
-  <a href="https://github.com/Astrq23/BlackjackGameCLI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astrq23&repo=BlackjackGameCLI&theme=tokyonight&border_radius=8&hide_border=true" />
+  <a href="https://github.com/Astrq23/high-altitude-infrared-thermal-object-tracking">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astrq23&repo=high-altitude-infrared-thermal-object-tracking&theme=tokyonight&border_radius=8&hide_border=true" />
   </a>
 
 ## 📊 **GitHub Analytics**
